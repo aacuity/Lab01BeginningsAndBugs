@@ -1,4 +1,4 @@
-public class Bugged {
+public class Buggy {
     /**
      * This one just prints some random stuff and does some random math
      *
